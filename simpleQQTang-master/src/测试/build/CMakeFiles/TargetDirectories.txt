@@ -1,0 +1,3 @@
+/home/jiaqig/Downloads/copilot_play/simpleQQTang-master/src/测试/build/CMakeFiles/QQTangGame.dir
+/home/jiaqig/Downloads/copilot_play/simpleQQTang-master/src/测试/build/CMakeFiles/edit_cache.dir
+/home/jiaqig/Downloads/copilot_play/simpleQQTang-master/src/测试/build/CMakeFiles/rebuild_cache.dir

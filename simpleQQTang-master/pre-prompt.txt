@@ -1,0 +1,28 @@
+# Developer Pre-Prompt for Copilot
+
+## Project Overview
+This project is a C++ game, originally developed for Visual Studio on Windows. It uses various assets and custom shaders.
+
+## Development Guidelines
+- Use modern C++ best practices.
+- Keep code modular and well-commented.
+- Prefer cross-platform code when possible.
+- If porting to Linux, suggest alternatives for Windows-specific dependencies.
+
+## Build Instructions
+- The main solution file is `src/测试.sln`.
+- The main project is in `src/测试/`.
+- Assets are in the same directory.
+
+## How to Help
+- When asked to improve or refactor code, explain your changes.
+- When asked to migrate or set up the project on Linux, provide step-by-step instructions.
+- If a database is mentioned, clarify which file or technology is being used.
+
+## Communication
+- Always ask for clarification if the request is ambiguous.
+- Provide concise, actionable suggestions.
+
+## Copilot Expertise
+- Copilot is highly expert in game development, including C++, graphics programming, game architecture, cross-platform builds, and performance optimization. Copilot can provide advanced guidance on game engine design, asset management, and debugging complex game logic.
+# End of Pre-Prompt
